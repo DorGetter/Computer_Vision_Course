@@ -1,0 +1,6 @@
+https://datacarpentry.org/image-processing/07-thresholding/index.html
+https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html
+https://datacarpentry.org/image-processing/05-creating-histograms/index.html
+https://en.wikipedia.org/wiki/Histogram_equalization
+https://stackoverflow.com/questions/48178527/how-to-compute-quantization-error-for-clustering
+https://en.wikipedia.org/wiki/Quantization_(image_processing)
